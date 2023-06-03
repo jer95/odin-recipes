@@ -1,1 +1,2 @@
 # odin-recipes
+Welcome to my first Project. Using the HTML lessons I've learned so far from the odin-project I'll be making a webpage containing some of my favourite recipes. The goal of this project is to practice using HTML to organize and structure the webpage and get familiar with all the different HTML elements.
